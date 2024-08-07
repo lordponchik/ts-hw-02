@@ -13,6 +13,7 @@ export default defineConfig({
         page4: 'src/html/task-04.html',
         page5: 'src/html/task-05.html',
         page6: 'src/html/task-06.html',
+        page7: 'src/html/task-07.html',
       },
     },
   },
