@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill.c7c6310f.js";const n=function(l){for(let o=0;o<l.length;o+=1)console.log(`${o+1} - ${l[o]}`)};n(["Mango","Poly","Ajax","Lux","Jay","Kong"]);console.log("");n([5,10,15,20,25,30,35,40,45,50]);
