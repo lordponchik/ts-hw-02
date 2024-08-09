@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill.c7c6310f.js";console.log("task-03");const o=function(e){return e.split(" ").sort((l,n)=>n.length-l.length)[0]};console.log(o("The quick brown fox jumped over the lazy dog"));console.log(o("Google do a roll"));console.log(o("May the force be with you"));

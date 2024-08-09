@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill.c7c6310f.js";console.log("task-02");const o=function(n,t){return n.split(" ").length*t};console.log(o("Proin sociis natoque et magnis parturient montes mus",10));console.log(o("Donec orci lectus aliquam est magnis",40));

@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill.c7c6310f.js";console.log("task-05");const o=function(e){return e.toLowerCase().includes("spam")||e.toLowerCase().includes("sale")};console.log(o("Latest technology news"));console.log(o("JavaScript weekly newsletter"));console.log(o("Get best sale offers now!"));console.log(o("[SPAM] How to earn fast money?"));
