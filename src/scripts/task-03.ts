@@ -1,4 +1,4 @@
-const findLongestWord = function (string: string) {
+const findLongestWord = function (string: string): string {
   return string.split(' ').sort((a, b) => b.length - a.length)[0];
 };
 
