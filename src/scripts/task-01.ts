@@ -1,3 +1,5 @@
+console.log('task-01');
+
 const logItems = function <T>(array: T[]): void {
   for (let i: number = 0; i < array.length; i += 1) {
     console.log(`${i + 1} - ${array[i]}`);
