@@ -1,4 +1,6 @@
-const formatString = function (string: string) {
+console.log('task-04');
+
+const formatString = function (string: string): string {
   return string.length > 40 ? `${string.slice(0, 40)}...` : string;
 };
 
